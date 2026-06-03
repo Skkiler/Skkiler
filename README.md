@@ -127,17 +127,17 @@ Interface web
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Skkiler&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&locale=pt-br"
+    src="./profile/stats.svg"
     alt="Estatísticas públicas do GitHub de João Vitor"
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skkiler&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+    src="./profile/top-langs.svg"
     alt="Linguagens identificadas nos repositórios públicos"
   />
 </p>
 
-> As métricas acima são geradas dinamicamente a partir das informações acessíveis ao serviço externo utilizado. Projetos privados e contribuições internas da organização podem não ser contabilizados nesses cartões.
+> Os cartões apresentam métricas derivadas dos repositórios e contribuições acessíveis ao workflow. Contribuições realizadas em repositórios privados da organização não são necessariamente contabilizadas.
 
 ---
 
