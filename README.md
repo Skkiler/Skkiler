@@ -2,7 +2,7 @@
 
 # João Vitor de Souza Siqueira
 
-**Auxiliar Júnior de RPA na [@TeckSolgenharia de Controle e Automação — Universidade São Judas Tadeu**
+**Auxiliar Júnior de RPA na [@TeckSolucoes]. Cursando Engenharia de Controle e Automação — Universidade São Judas Tadeu**
 
 <br>
 
